@@ -107,7 +107,7 @@ class ExcelView extends View
             throw new Exception('Excel writer not found');
         }
 
-        $writer->setPreCalculateFormulas(false);
+        $writer->setPreCalculateFormulas(true);
         $writer->setIncludeCharts(true);
         $writer->save('php://output');
 
