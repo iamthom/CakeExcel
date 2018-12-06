@@ -1,25 +1,19 @@
 {
-    "name": "dakota/cake-excel",
+    "name": "iamthom/cake-excel",
     "type": "cakephp-plugin",
     "description": "CakePHP excel generator",
     "keywords": [
         "cakephp",
-        "dakota",
+        "iamthom",
         "excel",
         "phpexcel"
     ],
-    "homepage": "https://github.com/dakota/CakeExcel",
+    "homepage": "https://github.com/iamthom/CakeExcel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Walther Lalk",
-            "email": "emailme@waltherlalk.com"
-        }
-    ],
-    "modifier": [
-        {
-            "name": "Daren Sipes",
-            "email": "daren@sipes.me"
+            "name": "Tom",
+            "email": "mynameisthom@gmail.com"
         }
     ],
     "require": {
@@ -42,7 +36,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/dakota/CakeExcel/issues",
-        "source": "https://github.com/dakota/CakeExcel"
+        "issues": "https://github.com/iamthom/CakeExcel/issues",
+        "source": "https://github.com/iamthom/CakeExcel"
     }
 }
